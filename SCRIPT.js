@@ -18,5 +18,6 @@ $(document).ready(function(){
             $(this).css('transform', 'scale(' + scale + ')');
           }}); // Animación de ondulación
         });
-      });
+      
     });
+
